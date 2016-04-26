@@ -5,6 +5,7 @@
 How To Play?
 
 1.`<script src='drawflower.js'></script>`
+
 2.`canvas.drawFlower(option);`
 
 ```
